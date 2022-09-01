@@ -1,1 +1,2 @@
-mkdir directory1/directory2
+#!/bin/bash
+ls -lna
