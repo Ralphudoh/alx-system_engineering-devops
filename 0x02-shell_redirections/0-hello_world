@@ -1,0 +1,6 @@
+#!/bin/bash
+# Author: Raphael Udoh
+Script to print Hello World
+echo "Hello, World"
+
+README.md
