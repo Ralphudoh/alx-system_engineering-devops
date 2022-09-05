@@ -1,0 +1,4 @@
+#!/bin/bash
+# Author; Raphael Udoh
+# Script for "Hello World"
+echo "Hello, World"
